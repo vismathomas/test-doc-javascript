@@ -31,3 +31,7 @@ These documents are structured to support RAG systems with:
 - Comprehensive code examples
 - Cross-referenced topics
 - Consistent markdown formatting
+
+## Latest info
+
+- Just a small tidbit on the dog named Rex, and the owner, James, they both went to the park - but only Rex got home again.
